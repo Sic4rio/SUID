@@ -9,7 +9,6 @@ This script lists SUID binaries and checks if they are present in the GTFO bins 
 ## Usage
 ```
 ./suid.sh
-
 ```
 ## Features
 
